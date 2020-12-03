@@ -16,7 +16,9 @@ $ npm install && gulp
 + [日本之行](./japan)
 + [Media Source Extensions](./media-source)
 + [JS 获取视频 Codec](./js-get-codec)
+
 补充信息 ：
+
 H265 H264 ：
 1.这种视频编码格式 只存在于MP4中
 https://baike.baidu.com/item/H.264/1022230
